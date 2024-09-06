@@ -34,7 +34,7 @@
   "anchors": [
     {
       "name": "Customer API",
-      "openapi": "./api-reference/customer.json",
+      "openapi": "/api-reference/customer.json",
       "url": "customer-api",
       "icon": "square-terminal"
     },
