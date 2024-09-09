@@ -1,0 +1,11 @@
+{
+  "name": "northern-lights-testing",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "mintlify dev"
+  },
+  "devDependencies": {
+    "mintlify": "^4.0.217"
+  }
+}
